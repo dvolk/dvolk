@@ -2,7 +2,7 @@
 
 - 📫 How to reach me: denis.volk@gmail.com
 
-### Catboard - a clean task board
+### Catboard - A clean task board
 https://github.com/dvolk/catboard#readme
 ### lo2 - Simple youtube-dl web frontend
 https://github.com/dvolk/lo2
