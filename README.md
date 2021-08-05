@@ -6,10 +6,15 @@
 https://github.com/dvolk/catboard#readme
 ### Catwiki - a simple wiki
 https://github.com/dvolk/catwiki
-### Catarchive: Web archive/bookmarks with full text search
+### Catarchive - Web archive/bookmarks with full text search
 https://github.com/dvolk/catarchive
-### lo2: Simple youtube-dl web frontend
+### lo2 - Simple youtube-dl web frontend
 https://github.com/dvolk/lo2
+### gnuplot.nim - Nim interface to gnuplot
+https://github.com/dvolk/gnuplot.nim
+### orgdot - Turn org-mode headers into a graph image
+https://github.com/dvolk/orgdot
+
 <!--
 **dvolk/dvolk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
