@@ -4,12 +4,12 @@
 
 ### Catboard - a clean task board
 https://github.com/dvolk/catboard#readme
-### Catwiki - a simple wiki
-https://github.com/dvolk/catwiki
-### Catarchive - Web archive/bookmarks with full text search
-https://github.com/dvolk/catarchive
 ### lo2 - Simple youtube-dl web frontend
 https://github.com/dvolk/lo2
+### Catarchive - Web archive/bookmarks with full text search
+https://github.com/dvolk/catarchive
+### Catwiki - a simple wiki
+https://github.com/dvolk/catwiki
 ### gnuplot.nim - Nim interface to gnuplot
 https://github.com/dvolk/gnuplot.nim
 ### orgdot - Turn org-mode headers into a graph image
