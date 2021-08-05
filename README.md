@@ -8,7 +8,7 @@ https://github.com/dvolk/catboard#readme
 https://github.com/dvolk/lo2
 ### Catarchive - Web archive/bookmarks with full text search
 https://github.com/dvolk/catarchive
-### Catwiki - a simple wiki
+### Catwiki - A simple wiki
 https://github.com/dvolk/catwiki
 ### gnuplot.nim - Nim interface to gnuplot
 https://github.com/dvolk/gnuplot.nim
