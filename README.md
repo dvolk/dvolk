@@ -4,10 +4,10 @@
 
 <table>
   <tr>
-    <td>swii</td>
-    <td>catboard</td>
-    <td>catboard</td>
-    <td>org-dot</td>
+    <td><a href="https://github.com/dvolk/swii">swii</a></td>
+    <td><a href="https://github.com/dvolk/catboard">catboard</a></td>
+    <td><a href="https://github.com/dvolk/catboard">catboard</a></td>
+    <td><a href="https://github.com/dvolk/org-dot">org-dot</a></td>
   </tr>
   <tr>
     <td><img src="https://camo.githubusercontent.com/a2215fd7fb2c75db59d7d3165af60336f441747d0bd908410fd4af518a9488f1/68747470733a2f2f692e696d6775722e636f6d2f754d686b4e686f2e706e67"></td>
@@ -16,10 +16,10 @@
     <td><img src="https://raw.githubusercontent.com/dvolk/orgdot/master/stem.txt.png"></td>
   </tr>
   <tr>
-    <td>catarchive</td>
-    <td>catwiki</td>
-    <td>catwiki</td>
-    <td>gnuplot.nim</td>
+    <td><a href="https://github.com/dvolk/catarchive">catarchive</a></td>
+    <td><a href="https://github.com/dvolk/catwiki">catwiki</a></td>
+    <td><a href="https://github.com/dvolk/catwiki">catwiki</a></td>
+    <td><a href="https://github.com/dvolk/gnuplot.nim">gnuplot.nim</a></td>
   </tr>
   <tr>
     <td><img src="https://camo.githubusercontent.com/1bc180f078b2a9eb4718f0c6ca3bb31897f26b9e386c2ea49ecae63180f9c7c3/68747470733a2f2f692e696d6775722e636f6d2f37634c36574d562e706e67"></td>
@@ -28,10 +28,10 @@
     <td><img src="https://camo.githubusercontent.com/c21acc698a7cee836c6234ea9d6c0d637e809bb5367cf3b0441ee46675768a35/68747470733a2f2f692e696d6775722e636f6d2f6d586e6d6a30562e706e67"></td>
   </tr>
   <tr>
-    <td>catwalk</td>
-    <td>catwiki</td>
-    <td>lo2</td>
-    <td>catsup</td>
+    <td><a href="https://github.com/dvolk/catwalk">catwalk</a></td>
+    <td><a href="https://github.com/dvolk/catwiki">catwiki</a></td>
+    <td><a href="https://github.com/dvolk/lo2">lo2</a></td>
+    <td><a href="https://github.com/dvolk/catsup">catsup</a></td>
   </tr>
   <tr>
     <td><img src="https://camo.githubusercontent.com/7a1c6302d7dafb8787733edd0c79ff8cd56fa08e2d4d4f335ab194bdc5e2955b/68747470733a2f2f692e696d6775722e636f6d2f6e4364786258422e706e67"></td>
@@ -40,10 +40,10 @@
     <td><img src="https://camo.githubusercontent.com/b7c410c20aee2689429b3d6fb2dfd752783aff31f5482efe0c9d488af021809f/68747470733a2f2f692e696d6775722e636f6d2f3345475531626b2e706e67"></td>
   </tr>
   <tr>
-    <td>catsup</td>
-    <td>open space program</td>
-    <td>project x</td>
-    <td>hoodie</td>
+    <td><a href="https://github.com/dvolk/catsup">catsup</a></td>
+    <td><a href="https://github.com/dvolk/openspaceprogram">open space program</a></td>
+    <td><a href="https://github.com/dvolk/project_x">project x</a></td>
+    <td><a href="https://github.com/dvolk/hoodie">hoodie</a></td>
   </tr>
   <tr>
     <td><img src="https://camo.githubusercontent.com/460e7d676b7814f7699cee97ec0802eabd8b19fc36cbaec41a1b26daeff78edd/68747470733a2f2f692e696d6775722e636f6d2f55595a6f644e772e706e67"></td>
