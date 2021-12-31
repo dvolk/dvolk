@@ -4,10 +4,10 @@
 
 <table>
   <tr>
-    <td><a href="https://github.com/dvolk/swii">swii</a></td>
-    <td><a href="https://github.com/dvolk/catboard">catboard</a></td>
-    <td><a href="https://github.com/dvolk/catboard">catboard</a></td>
-    <td><a href="https://github.com/dvolk/org-dot">org-dot</a></td>
+    <td width=25%><a href="https://github.com/dvolk/swii">swii</a></td>
+    <td width=25%><a href="https://github.com/dvolk/catboard">catboard</a></td>
+    <td width=25%><a href="https://github.com/dvolk/catboard">catboard</a></td>
+    <td width=25%><a href="https://github.com/dvolk/org-dot">org-dot</a></td>
   </tr>
   <tr>
     <td><img src="https://camo.githubusercontent.com/a2215fd7fb2c75db59d7d3165af60336f441747d0bd908410fd4af518a9488f1/68747470733a2f2f692e696d6775722e636f6d2f754d686b4e686f2e706e67"></td>
