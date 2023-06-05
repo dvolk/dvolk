@@ -4,6 +4,19 @@
 
 <table>
   <tr>
+    <td width=25%><a href="https://github.com/dvolk/ada2025">ada2025</a></td>
+    <td width=25%><a href="https://github.com/dvolk/ada2025">ada2025</a></td>
+    <td width=25%><a href="https://github.com/dvolk/sc">sc</a></td>
+    <td width=25%><a href="https://github.com/dvolk/desktop">desktop</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://camo.githubusercontent.com/bf89ef709e136e937e1c7bf050ab07678a03f79ae354eafcc632420ecdce5666/68747470733a2f2f692e706f7374696d672e63632f76383851543837392f6c6f63616c686f73742d353030302d6d616368696e65732d31382e706e67"></td>
+    <td><img src="https://camo.githubusercontent.com/4ac8ff8b8756d876bbdc1ca510d88e2bd8172253e12891b13947fc773db39a60/68747470733a2f2f692e706f7374696d672e63632f33384638333047592f6c6f63616c686f73742d353030302d646174612d332e706e67"></td>
+    <td><img src="https://camo.githubusercontent.com/c0701d835a19bfacd95caabcf14e6e8d17b2140d943c1976928c2a2d4f95964b/68747470733a2f2f692e696d6775722e636f6d2f6f37715762564e2e706e67"></td>
+    <td><img src="https://camo.githubusercontent.com/8b935e4c46155891cd810514ba921d12c5477243ce628e3776f28e8889f3676b/68747470733a2f2f692e696d6775722e636f6d2f6b38526c774f742e706e67"></td>
+  </tr>
+
+  <tr>
     <td width=25%><a href="https://github.com/dvolk/swii">swii</a></td>
     <td width=25%><a href="https://github.com/dvolk/catboard">catboard</a></td>
     <td width=25%><a href="https://github.com/dvolk/catboard">catboard</a></td>
@@ -15,6 +28,7 @@
     <td><img src="https://camo.githubusercontent.com/ae63c1d0f74004872445991205d8a6413d078b155133a2139f930dee5ffc3b7a/68747470733a2f2f692e696d6775722e636f6d2f614b4c6e4266672e706e67"></td>
     <td><img src="https://raw.githubusercontent.com/dvolk/orgdot/master/stem.txt.png"></td>
   </tr>
+  
   <tr>
     <td><a href="https://github.com/dvolk/catarchive">catarchive</a></td>
     <td><a href="https://github.com/dvolk/catwiki">catwiki</a></td>
@@ -27,9 +41,10 @@
     <td><img src="https://camo.githubusercontent.com/20c685161a638af70f2bff90b318c3eb88cbdc2d4386228926b86f561a3a2f56/68747470733a2f2f692e696d6775722e636f6d2f7546786f7878452e706e67"></td>
     <td><img src="https://camo.githubusercontent.com/c21acc698a7cee836c6234ea9d6c0d637e809bb5367cf3b0441ee46675768a35/68747470733a2f2f692e696d6775722e636f6d2f6d586e6d6a30562e706e67"></td>
   </tr>
+  
   <tr>
     <td><a href="https://github.com/dvolk/catwalk">catwalk</a></td>
-    <td><a href="https://github.com/dvolk/catwiki">catwiki</a></td>
+    <td><a href="https://github.com/dvolk/catwiki">catwalk</a></td>
     <td><a href="https://github.com/dvolk/lo2">lo2</a></td>
     <td><a href="https://github.com/dvolk/catsup">catsup</a></td>
   </tr>
